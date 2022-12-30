@@ -1,2 +1,2 @@
-# Recipe-App
+# Recipe-App React Native
 Recipe App 🍽
